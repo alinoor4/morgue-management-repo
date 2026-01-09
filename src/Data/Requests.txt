@@ -1,0 +1,17 @@
+John Smith`ID001`Marry Smith`21/9/1956`Heart Attack`returned`Autopsy shows myocardial infarction with 90% blockage.
+Mary Jane`ID002`Hope Smith`21/5/2005`Poisoning`rejected`‎
+Kelly Jane`ID003`Hope Kelly`12/8/2024`Brain Tumour`returned`adgoisuh udiuyde iy yudioy 
+John Doe`ID004`Jane Doe`21/3/2025`Severe Burns`rejected`‎
+Mary Hail`ID005`Jenny Hail`21/3/1967`Head Injury`false`‎
+Lily Evans`ID006`Evans Smith`14/7/2024`Drug Overdose`false`‎
+Yusuf Khan`ID007`Mark Taylor`14/03/2022`Brain Tumor`accepted`‎
+Aiden Clarke`ID008`Lucy Davis`28/07/2021`Cardiac Arrest`completed`Autopsy shows myocardial infarction with 90% blockage.
+Elias Romero`ID009`George King`19/10/2020`Road Accident`rejected`‎
+Layla Chen`ID010`Anna Hall`04/04/2023`Stroke`false`‎
+Nathaniel Brooks`ID011`Tom Walker`30/01/2024`Leukemia`false`‎
+Selene Foster`ID012`Mia Young`17/05/2022`Homicide`completed`Multiple stab wounds; cause of death confirmed as exsanguination.
+Ivy Robinson`ID013`Noah Harris`06/09/2021`Heart Attack`returned`No autopsy done; body released as per family’s request.
+Leena Haddad`ID014`Chloe Wright`11/11/2023`Severe Burns`false`‎
+Priya Das`ID015`Ethan Baker`20/02/2020`Asthma Attack`false`‎
+Chloe Mitchell`ID016`Lily Evans`08/08/2023`Drug Overdose`returned`Toxicology confirmed high concentration of fentanyl.
+Ali Noor`ID0020`Ahmad Saqi`21/9/2024`Drug overdose`false`‎
