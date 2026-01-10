@@ -19,13 +19,13 @@ A Java-based Command Line Interface (CLI) application designed to simulate and m
 - Uses custom flat-file databases (Requests.txt and Login.txt) to store user credentials and body records.
 - Data is serialized using a custom delimiter to ensure field separation and integrity.
 
-### Technical Implementation
+## Technical Implementation
 - **Language:** Java
 - **Architecture:** Modular design separating UI (Menu), Logic (TheMorgue, BodyRequester), and Authentication (UserLogin).
 - **Storage:** File I/O (Text-based persistence).
 - **Testing:** JUnit 5.
 
-### Workflow Diagram (Text-based)Request: 
+## Workflow: 
 
 1. **Submission**
    - **Actor:** Requester
